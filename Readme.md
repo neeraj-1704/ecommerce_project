@@ -27,3 +27,10 @@ Event-driven order processing
 How FAANG evaluates this design
 
 
+echo "# ecommerce_project" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/neeraj-1704/ecommerce_project.git
+git push -u origin main
